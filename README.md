@@ -3,6 +3,5 @@
 
 # 学习内容
 1.  Web Scraping with Python from Ryan Mitchell
-    * Note (update to chapter 2)
     * Practice (update to chapter 2)
 
